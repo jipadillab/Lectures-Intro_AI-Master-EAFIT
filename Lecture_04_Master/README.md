@@ -1,6 +1,4 @@
-from pathlib import Path
-
-# Contenido del archivo README.md
+# Contenido del archivo
 markdown_content = """# 🤖 Introducción a Agentes Lógicos en Inteligencia Artificial
 
 Este repositorio ofrece una introducción práctica y conceptual a los **agentes lógicos**, pensada para estudiantes que inician en ingeniería y desean aprender inteligencia artificial de forma progresiva y aplicada, utilizando Python.
